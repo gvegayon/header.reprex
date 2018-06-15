@@ -1,5 +1,5 @@
-#ifndef MODSTRING_H
-#define MODSTRING_H
+#ifndef TIMESTHREE
+#define TIMESTHREE
 
 #include <Rcpp.h>
 Rcpp::NumericVector timesThree(Rcpp::NumericVector x);
